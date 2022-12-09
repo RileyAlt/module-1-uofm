@@ -91,17 +91,17 @@ p {
     background-color: #2589bd;
 }
 /* this section gives color and spacing for the content on the side  */
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 /* this section aligns the texts for the paragrpahs */
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 /* this section controls the dimensions and placement of the images */
-.benefit-lead img, .benefit-brand img, .benefit-cost img{
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
