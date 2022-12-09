@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# First Module Readme
 the objective of the coding was to have a webpage for a company by the name of Horiseon
 
 we needed to clean up and make the code look clean and functinal
